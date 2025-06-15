@@ -69,7 +69,7 @@ font-weight: 800;
 }
 
 p, li {
-font-weight: 400;
+    font-weight: 400;
 }
 
 .small-note {
@@ -78,14 +78,14 @@ font-weight: 200;
 
 
 header {
-color: white;
-padding: 4rem 2rem;
-text-align: center;
+    color: white;
+    padding: 4rem 2rem;
+    text-align: center;
 
-h1 {
-    margin: 0 0 1rem;
-    font-size: 2.5rem;
-}
+    h1 {
+        margin: 0 0 1rem;
+        font-size: 2.5rem;
+    }
 }
   
 section {
@@ -136,14 +136,13 @@ a.button {
     border-radius: 4px;
     font-weight: bold;
 }
-  
-/** Hero **/
+
 .hero {
     display: flex;
     align-items: center;
     justify-content: center;
     color: white;
-    min-height: 24vw;
+    min-height: 36vw;
     padding-bottom: 6rem;
     position: relative;
     overflow: hidden;
@@ -187,5 +186,10 @@ a.button {
         position: relative;
         z-index: 2;
         max-width: 100vw;
+
+        // p {
+        //     font-weight: 500;
+        //     font-size: 1.5rem;
+        // }
     }
 }
