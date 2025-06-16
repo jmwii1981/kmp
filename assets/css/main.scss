@@ -167,7 +167,11 @@ a.button {
         color: #7f00ff;
     }
 }
-
+.hero-wrapper {
+    overflow-x: clip;
+    width: 100vw;
+    position: relative;
+}
 .hero {
     display: flex;
     align-items: center;
