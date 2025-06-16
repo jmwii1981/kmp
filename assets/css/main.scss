@@ -10,14 +10,15 @@
 }
 
 html, body {
-  height: 100%;
-  font-family: 'Bricolage Grotesque', sans-serif;
-  font-size: 100%;
-  line-height: 1.5;
-  background-color: #fff;
-  color: #222;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    background-color: #fff;
+    color: #222;
+    height: 100%;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: 100%;
+    line-height: 1.5;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 img,
@@ -57,7 +58,6 @@ body {
     background-color: #fff;
     color: #222;      
     width: 100%;
-    overflow-x: hidden;
 }
   
 h1, h2, h3, h4, h5, h6 {
