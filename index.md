@@ -9,7 +9,7 @@ title: Kentuckiana Marching Pride
 <br><br>
 Rooted in a legacy of protest and pride, we march in the footsteps of those who fought to be seen, heard, and celebrated. Our presence at the Kentuckiana Pride Parade has become a vibrant symbol of joy, resistance, and community — proving that when we take up space, we create space for others.
 <br><br>
-We are Proud. Out Loud. Unstoppable.
+We are <strong class="highlight">Proud. Out Loud. Unstoppable.</strong>
 
 </section>
 <hr>
@@ -23,7 +23,7 @@ We are Proud. Out Loud. Unstoppable.
   </div>
   <div class="inner">
     <p>
-      Reach out with any questions, ideas, or just to say hello — <strong class="highlight">we love connecting with our community!</strong>
+      <strong class="highlight">We love connecting with our community!</strong> Reach out with any questions, ideas, or just to say hello!
     </p>
     <a href="https://forms.gle/9uZcsbcknNAXQxti9" class="button secondary" target="_blank">Get in Touch</a>
   </div>
@@ -33,20 +33,17 @@ We are Proud. Out Loud. Unstoppable.
     <div class="inner">
         <h2>Donate to help keep us grooving</h2>
         <p>
-            Envision a group of passionate musicians and performers, all driven to create unforgettable music performances. These shows not only bring the LGBTQIA+ community and its allies together, but they also resonate with a wider audience, transcending boundaries.
+            <strong class="highlight">Our marching band is no ordinary ensemble</strong> — it embodies resilience, determination, and pride, creating a symphony of empowerment and unity! Your support keeps our music alive and our pride visible. Help us fund uniforms, instruments, parade logistics, and more.
             <br><br>
-            Our marching band is no ordinary ensemble — it embodies resilience, determination, and pride, creating a symphony of empowerment and unity!
-            <br><br>
-            Your support keeps our music alive and our pride visible. Help us fund uniforms, instruments, parade logistics, and more.
         </p>
-        <ul class="donate-now inner">
-            <li>
-                <img src="{{ '/assets/images/g.webp' | relative_url }}" alt="QR code to make donation to KMP" class="qr" aria-hidden="true" />
-                <br><br>
-                <a class="button secondary" href="https://www.paypal.com/ncp/payment/9ZYV6VW2D5KAN" target="_blank">Donate Now</a>
-            </li>
-        </ul>
-  </div>
+    </div>
+    <ul class="donate-now inner">
+        <li>
+            <img src="{{ '/assets/images/g.webp' | relative_url }}" alt="QR code to make donation to KMP" class="qr" aria-hidden="true" />
+            <br><br>
+            <a class="button secondary" href="https://www.paypal.com/ncp/payment/9ZYV6VW2D5KAN" target="_blank">Donate Now</a>
+        </li>
+    </ul>
 </section>
 <hr>
 <section>
