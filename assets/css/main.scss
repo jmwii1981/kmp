@@ -118,7 +118,7 @@ section {
         margin-bottom: 1rem;
     }
 
-    .inner:not(:first-child) {
+    .inner:not(:first-of-type) {
         margin-top: 4rem;
       }
 
